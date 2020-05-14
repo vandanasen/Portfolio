@@ -6,5 +6,5 @@
 <h1>Built with</h1>
 <ul>
   <li>Django</li>
-  <li>Bootstrap</li>
+  <li>[Bootstrap](https://getbootstrap.com)</li>
 </ul>
