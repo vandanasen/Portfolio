@@ -5,6 +5,6 @@
 <h3>This is a django application to create a portfolio website</h3>
 <h1>Built with</h1>
 <ul>
-  <li>Django</li>
+  <li><a href="https://www.djangoproject.com/">Django</a></li>
   <li><a href="https://getbootstrap.com">Bootstrap</a></li>
 </ul>
